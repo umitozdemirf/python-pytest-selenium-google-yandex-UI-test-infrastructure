@@ -1,0 +1,7 @@
+pytest==7.1.2
+pytest-forked==1.4.0
+pytest-html==3.1.1
+pytest-metadata==2.0.2
+pytest-xdist==2.5.0
+python-dateutil==2.8.2
+selenium==4.4.3
