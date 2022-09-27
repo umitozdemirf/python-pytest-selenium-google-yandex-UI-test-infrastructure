@@ -1,4 +1,4 @@
-<h1>BTCTurk Pytest Automation Project</h1>
+<h1>BTCTurk Pytest UI Automation Project</h1>
 This project is prepared for the BTCTurk recruitment process.
 <h2>Tool stack</h2>
 
@@ -6,7 +6,6 @@ This project is prepared for the BTCTurk recruitment process.
 * Pytest
 * Appium
 * Selenium
-* PyYAML
 * Faker
 
 <h3>Requirements</h3>
