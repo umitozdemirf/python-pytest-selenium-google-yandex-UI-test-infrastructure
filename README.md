@@ -1,5 +1,5 @@
-<h1>BTCTurk Pytest UI Automation Project</h1>
-This project is prepared for the BTCTurk recruitment process.
+<h1>Pytest UI Automation Project</h1>
+This project is prepared for the self improvement.
 <h2>Tool stack</h2>
 
 * Python
